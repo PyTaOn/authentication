@@ -1,0 +1,1 @@
+# handelivery-autenticador
